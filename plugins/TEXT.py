@@ -9,13 +9,10 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = "Hi {}
-
-I am Drive Uploader Bot. Please Authorise To use me.
-
-By using /auth
-
-For more info /help"
+START = """Hi {}
+           I am Drive Uploader Bot. Please Authorise To use me.
+           By using /auth
+           For more info /help"""
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
