@@ -1,6 +1,6 @@
 class Creds():
     # ENTER Your bot Token Here
-    TG_TOKEN = "816343072:AAEfURyeKM07YJEDlDBb91fisOAS-P66Mhg"
+    TG_TOKEN = "1020994412:AAHvkkEjX2YxN6-1fF07tW9nLdVarDudzZ0"
     
     
     
